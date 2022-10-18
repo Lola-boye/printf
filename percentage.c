@@ -1,7 +1,7 @@
 #include "mai.h"
 
 /**
- * print_percent -  print percent character
+ * print_percent -  print the percentage character
  * @args: char
  * Return: percent character
  */
