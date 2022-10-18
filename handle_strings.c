@@ -2,7 +2,7 @@
 
 /**
  * print_char - print single char
- * @ap: arg list
+ * @ap: arguments list
  * Return: number of printed char
  */
 
