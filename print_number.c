@@ -1,9 +1,9 @@
-#include "mai.h"
+#include "main.h"
 
 /**
  * print_unsigned_number - print unsigned number
  * @n: unsigned integer to print
- * Return: number of printed chars
+ * Return: number of printed characters
  */
 
 int print_unsigned_number(unsigned int n)

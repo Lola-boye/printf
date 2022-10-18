@@ -1,7 +1,7 @@
-#include "mai.h"
+#include "main.h"
 
 /**
- * print_char - print single char
+ * print_char - print a single character
  * @ap: arguments list
  * Return: number of printed char
  */
@@ -21,7 +21,7 @@ int print_char(va_list ap)
 /**
  * print_str - print string
  * @ap: arg list
- * Return: number of printed char
+ * Return: number of printed characters
  */
 
 int print_str(va_list ap)

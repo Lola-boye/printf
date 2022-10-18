@@ -1,9 +1,9 @@
-#include "mai.h"
+#include "main.h"
 
 /**
  * print_percent -  print the percentage character
  * @args: char
- * Return: percent character
+ * Return: percentage character
  */
 
 int print_percent(va_list args __attribute__((unused)))

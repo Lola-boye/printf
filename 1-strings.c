@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 
 /**
  * _putchar - writes the character c to stdout
@@ -15,7 +15,7 @@ int _putchar(char c)
  * _puts - write all characters from string to stdout
  * @str: string to print
  * @ascii: enable ascii restriction
- * Return: number of printed char
+ * Return: number of printed characters
  */
 
 int _puts(char *str, int ascii)
