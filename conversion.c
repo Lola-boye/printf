@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * convert_alpha_numeric - convert digits to char
+ * convert_alpha_numeric - convert digits to characters
  * @nb: number
  * @upper: upper case check
  * Return: converted value
