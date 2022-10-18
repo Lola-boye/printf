@@ -12,7 +12,7 @@ int _putchar(char c)
 }
 
 /**
- * _puts - write all char from string to stdout
+ * _puts - write all characters from string to stdout
  * @str: string to print
  * @ascii: enable ascii restriction
  * Return: number of printed char
