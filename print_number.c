@@ -2,7 +2,7 @@
 
 /**
  * print_unsigned_number - print unsigned number
- * @n: unsigned int to print
+ * @n: unsigned integer to print
  * Return: number of printed chars
  */
 
