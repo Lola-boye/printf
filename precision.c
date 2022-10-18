@@ -1,5 +1,5 @@
 #include "main.h"
-#inclide <ctype.h>
+#include <ctype.h>
 
 /**
  * get_precision - Calculates the precision for printing
