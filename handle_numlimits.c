@@ -3,7 +3,7 @@
 /**
  * print_unsigned - manage unsigned int
  * @ap: arg list
- * Return: value number of printed chars
+ * Return: value number of printed characters
  */
 
 int print_unsigned(va_list ap)
