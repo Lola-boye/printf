@@ -2,7 +2,7 @@
 
 /**
  * print_nbr - print number
- * @ap: arg list
+ * @ap: arguments list
  * Return: number of printed char
  */
 
