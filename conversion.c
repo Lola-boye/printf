@@ -2,7 +2,7 @@
 
 /**
  * convert_alpha_numeric - convert digits to char
- * @nb: digit or number
+ * @nb: number
  * @upper: upper case check
  * Return: converted value
  */
