@@ -14,7 +14,7 @@ int print_nbr(va_list ap)
 /**
  * print_binary - print number binary base
  * @ap: arg list
- * Return: number of printed char
+ * Return: number of printed characters
  */
 
 int print_binary(va_list ap)
